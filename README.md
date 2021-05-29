@@ -1,5 +1,5 @@
 ### meta-SGD
-Stochastic gradient descent on MAML
+Stochastic gradient descent on MAML (implementation sourced and edited via https://github.com/learnables/learn2learn
 
 ## MAML
 
