@@ -1,5 +1,5 @@
 ### meta-SGD
-Stochastic gradient descent on MAML (implementation sourced and edited via https://github.com/learnables/learn2learn
+Stochastic gradient descent on MAML 
 
 ## MAML
 
@@ -10,3 +10,5 @@ Stochastic gradient descent on MAML (implementation sourced and edited via https
 
 The above results are obtained by running [maml_trpo.py](https://github.com/learnables/learn2learn/blob/master/examples/rl/maml_trpo.py) on `HalfCheetahForwardBackwardEnv` and `AntForwardBackwardEnv` for 300 updates.
 The figures show the expected sum of rewards over all tasks.
+
+(implementation sourced and edited via https://github.com/learnables/learn2learn)
